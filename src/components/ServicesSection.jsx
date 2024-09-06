@@ -20,7 +20,7 @@ const ServicesSection = () => {
                 className="w-full md:h-96 h-64 object-cover absolute inset-0 opacity-0 hover:opacity-100 transition-opacity duration-500"
               />
             </div>
-            <div className="absolute top-[-20px] right-[-20px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
+            <div className="absolute top-[-20px] md:right-[-20px] right-[-10px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
             <div className="mt-6 text-white">
               <h3 className="text-3xl font-bold mb-2">Pintura Contemporánea</h3>
               <p className="text-gray-300 text-base italic">
@@ -43,7 +43,7 @@ const ServicesSection = () => {
                 className="w-full md:h-96 h-64 object-cover absolute inset-0 opacity-0 hover:opacity-100 transition-opacity duration-500"
               />
             </div>
-            <div className="absolute top-[-20px] right-[-20px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
+            <div className="absolute top-[-20px] md:right-[-20px] right-[-10px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
             <div className="mt-6 text-white">
               <h3 className="text-3xl font-bold mb-2">Escultura Abstracta</h3>
               <p className="text-gray-300 text-base italic">
@@ -66,7 +66,7 @@ const ServicesSection = () => {
                 className="w-full md:h-96 h-64 object-cover absolute inset-0 opacity-0 hover:opacity-100 transition-opacity duration-500"
               />
             </div>
-            <div className="absolute top-[-20px] right-[-20px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
+            <div className="absolute top-[-20px] md:right-[-20px] right-[-10px] w-16 h-16 bg-gold rounded-full shadow-md"></div>
             <div className="mt-6 text-white">
               <h3 className="text-3xl font-bold mb-2">Fotografía Conceptual</h3>
               <p className="text-gray-300 text-base italic">

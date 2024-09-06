@@ -26,7 +26,7 @@ const ContactSection = () => {
 
         {/* Sección de Contacto */}
         <div className="bg-dark-blue p-10  shadow-xl flex flex-col justify-center mx-4 md:mx-0 border-2 border-gold ">
-          <h2 className="text-5xl font-bold mb-6 text-gray-100 text-center uppercase">Contáctanos</h2>
+          <h2 className="md:text-5xl text-4xl font-bold mb-6 text-gray-100 text-center uppercase">Contáctanos</h2>
           <p className="text-lg md:text-xl leading-relaxed mb-10 text-gray-200 text-center">
             ¡Conéctate con nosotros! Si tienes preguntas o ideas, estamos aquí para ayudarte. Nos encantaría escucharte.
           </p>
