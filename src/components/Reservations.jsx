@@ -17,7 +17,7 @@ const Reservations = () => {
         </h3>
 
         {/* Información de Reservas en diseño de cuadrícula */}
-        <div className="space-y-12 md:space-y-0 md:w-10/12 mx-auto">
+        <div className="space-y-2 md:space-y-0 md:w-10/12 mx-auto">
           {/* Tarjeta 1: Imagen a la izquierda, texto a la derecha */}
           <div className="grid md:grid-cols-2  items-center bg-blue-purple-dark/50">
             {/* Imagen */}
